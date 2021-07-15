@@ -6,6 +6,7 @@ import trello_logo from '../../Images/trello-logo.png';
 import {Link} from 'react-router-dom';
 import '../../Style/style.css';
 
+
 const useStyles = makeStyles((theme) => ({
     grow: {
         flexGrow: 1,
