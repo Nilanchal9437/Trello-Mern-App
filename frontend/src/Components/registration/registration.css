@@ -1,0 +1,51 @@
+#main-form {
+    background-image: url('../../Images/registration-background.jpg');
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#paper-design{
+    width:100%;
+    box-shadow: none;
+}
+
+#paper-design img{
+    width:100%;
+}
+
+#input-design{
+    text-align: center;
+    margin: 0px 10% 0px 10%;
+}
+
+#input-design select{
+    width: 100%;
+    padding: 10px 10px 10px 0px;
+    margin: 4px 0px 4px 0px;
+    border-top:unset ;
+    border-left: unset;
+    border-right: unset;
+    border-bottom: solid 1.5px #9c9b9b;
+    color: #7e7c7c;
+    font-size: 16px;
+}
+
+#input-design a{
+    margin: 10px;
+}
+
+#input-design button{
+    margin: 10px 0px 15px 0px;
+}
+
+
+#form-hedding{
+    text-align: center;
+    padding: 20px 0px 0px 20px;
+    font-size: 22px;
+    font-weight: 700;
+    color: rgb(139, 142, 145);
+}

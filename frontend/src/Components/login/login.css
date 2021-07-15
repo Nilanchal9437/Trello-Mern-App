@@ -1,0 +1,40 @@
+#login-main-form{
+    background-image: url('../../Images/login-background.jpg');
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#login-sub-form{
+    padding-top: 100px;
+}
+
+#paper-design{
+    width:100%;
+    height: 100%;
+    box-shadow: none;
+}
+
+#paper-design img{
+    width: 100%;
+    height: auto;
+}
+
+#login-input-design{
+    width: 80%;
+    padding:10%;
+    text-align: center;
+}
+
+#login-input-design button{
+    margin: 30px 0px 30px 0px;
+}
+
+#login-hedding{
+    padding: 30px 0px 0px 0px;
+    text-align: center;
+    font-weight: 700;
+    font-size: 25px;
+    color: #6d6868;
+}

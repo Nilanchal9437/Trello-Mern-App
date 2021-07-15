@@ -1,0 +1,14 @@
+export const TRELLO_ARRAY = "TRELLO_ARRAY";
+export const USER_NAME = "USER_NAME";
+export const USER_EMAIL = "USER_EMAIL";
+export const USER_PASSWORD = "USER_PASSWORD";
+export const USER_DOB = "USER_DOB";
+export const USER_GENDER = "USER_GENDER";
+export const USER_PHONE = "USER_PHONE";
+export const TOKEN = "TOKEN";
+export const TRELLO_ID = "TRELLO_ID";
+export const LOGIN_ACCESS = "LOGIN_ACCESS";
+export const REGISTRATION = "REGISTRATION";
+export const FULL_ACCESS = "FULL_ACCESS";
+export const USER_LOGIN_EMAIL = "USER_LOGIN_EMAIL";
+export const USER_LOGIN_PASSWORD = "USER_LOGIN_PASSWORD";

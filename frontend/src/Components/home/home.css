@@ -1,0 +1,42 @@
+#home-bg{
+    margin-top: 50px;
+}
+
+#home-bg img{
+    width: 100%;
+}
+
+#grid-Color{
+    background-color: rgb(237, 241, 245);
+}
+
+#home-bg button{
+    width: 40%;
+}
+
+#grid-Footer img{
+    width: 15%;
+    padding: 10px;
+}
+
+#grid-Footer{
+    background-color: rgb(237, 241, 245);
+}
+
+#trello-footer{
+    text-align: center;
+}
+#trello-footer p{
+    margin: auto;
+    padding-top: 20px;
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(107, 109, 110);
+}
+
+#footer-text{
+    padding: 10px 0px 30px 0px;
+    text-align: center;
+    font-size: 15px;
+    color: rgb(107, 109, 110);
+}
